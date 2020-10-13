@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "amazon.lambda.tools": {
+      "version": "4.1.0",
+      "commands": [
+        "dotnet-lambda"
+      ]
+    },
+    "amazon.lambda.testtool-3.1": {
+      "version": "0.10.1",
+      "commands": [
+        "dotnet-lambda-test-tool-3.1"
+      ]
+    }
+  }
+}
